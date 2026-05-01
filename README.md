@@ -2,7 +2,7 @@
 
 I build AI agents that ship to production.
 
-Currently working on **[SubmitFlow](https://github.com/EmmanuelForDWin/SubmitFlow)**, an AI-powered document intake system for independent insurance agencies. Built on the Anthropic Claude API.
+Currently working on **[SubmitFlow](https://github.com/EmmanuelForDWin/SubmitFlow)**, an AI-powered document intake system for MGAs and wholesale brokers. Built on the Anthropic Claude API.
 
 ## Background
 
