@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel
 
-I build AI agents that ship to production.
+I build AI infrastructure for regulated industries.
 
 Currently working on **[SubmitFlow](https://github.com/EmmanuelForDWin/SubmitFlow)**, an AI-powered document intake system for MGAs and wholesale brokers. Built on the Anthropic Claude API.
 
