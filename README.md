@@ -8,7 +8,6 @@ Currently working on **[SubmitFlow](https://github.com/EmmanuelForDWin/SubmitFlo
 
 - MBA in Business Analytics, Texas Woman's University (in progress, 3.8 GPA)
 - BBA Accounting, UT San Antonio
-- Business Analyst at Honda Financial Services
 - Former NCAA Division I student-athlete
 
 ## What I work with
