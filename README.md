@@ -1,20 +1,22 @@
 # Hi, I'm Emmanuel
 
-I build AI infrastructure for regulated industries.
+I build AI agents for insurance workflows. Production systems, not demos.
 
-Currently working on **[SubmitFlow](https://github.com/EmmanuelForDWin/SubmitFlow)**, an AI-powered document intake system for MGAs and wholesale brokers. Built on the Anthropic Claude API.
+Currently running **[SubmitFlow](https://github.com/EmmanuelForDWin/SubmitFlow)** — submission intake for independent Property & Casualty agencies. Reads ACORD forms out of an inbox, outputs an AMS-ready Excel workbook to the CSR.
 
 ## Background
 
-- MBA in Business Analytics, Texas Woman's University (in progress, 3.8 GPA)
+- MBA Business Analytics, Texas Woman's University (3.8 GPA)
 - BBA Accounting, UT San Antonio
-- Former NCAA Division I student-athlete
+- Former UTSA Football
 
 ## What I work with
 
-Python · Anthropic Claude API · Claude Code · prompt engineering · agent reliability patterns · SQL · Tableau · Power BI
+**AI engineering:** Python · Anthropic Claude API · Claude Code · prompt engineering · agent reliability patterns
+
+**Analytics:** SQL · Tableau · Power BI · Excel modeling
 
 ## Find me
 
 - Email: odetola47@gmail.com
-LinkedIn: https://www.linkedin.com/in/emmanuel-odetola-93886b169/
+- LinkedIn: [emmanuel-odetola](https://www.linkedin.com/in/emmanuel-odetola-93886b169/)
